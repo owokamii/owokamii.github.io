@@ -1,8 +1,32 @@
-[Home](index.html) | [About Me](about.html) | [Projects](projects.html)
-___
-# Yvonne's Portfolio
+<!-- [Home](index.html) | [About Me](about.html) | [Projects](projects.html) -->
 
-Hi, I'm a Unity game developer. Here are some of my projects:
+___
+- resume (link)
+
+___
+- short introduction and a picture of me
+
+___
+- game projects (10)
+	- each project is a link
+
+___
+- education
+
+___
+- language
+
+___
+- technical expertise
+
+___
+- about me
+
+___
+- contact links:
+	- email
+	- linkedin
+	- github
 
 ## Projects
 - **Project 1**: Description and link
